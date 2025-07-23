@@ -35,11 +35,11 @@ Cette expérience m'a permis d'apprendre énormément:
  - Sur le domaine métier de la banque
  - Sur la conception d'un système robuste et rapide
 
-`Stage`
+`2020 - Stage`
 Réalisation d'un POC sur l'utilisation de Kafka Streams pour l'enrichissement d'un fichier, et la simplification d'un processus legacy. Monté en compétence sur la programmation fonctionnelle, Scala, l'architecture micros services et le déploiement continue d'applications.
 
 ### ASI
-`2019`
+`2019 - Stage `
 
 Création d'une application de photomaton en React Native pour le DevFest.
 
@@ -47,26 +47,25 @@ Création d'une application de photomaton en React Native pour le DevFest.
 
 ### Polytech Nantes
 `2017-2020`
+3 ans de cycle ingénieur couvrant la plupart des domaines de l'informatique. Développement d'application (C, JAVA, Python), BDD, réseaux, introduction aux stratégies d'optimisation. Et mise en pratique lors de projets recherche.  
 
 ### University of west of Scotland (UWS)
 `2016-2017`
+Année Erasmus en Ecosse dans la région de Glasgow à UWS dans le cadre d'un DUETI en tant qu'étudiant en Computer Networking. 
+La formation porte sur l'administration de système Unix, Windows et Cisco ainsi que sur le design et le fonctionnnement des réseaux. 
 
 ### IUT Nantes
 `2014-2016`
-
+2 ans de formation sur les bases de l'informatique, programmation en C, Java, Python, bases sur le fonctionnement des réseaux et les bases de données. 
 
 
 ## Langues
 
-### Français natif
+### Français
+Natif
 
 ### Anglais 
-TOEIC
+Une année en Ecosse ainsi que 6 mois en Hongrie - TOEIC 960
 
 ### Espagnol
 Voyage de 6 mois en Amérique latine en 2025
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
