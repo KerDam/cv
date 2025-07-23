@@ -32,16 +32,24 @@ Au sein de l'équipe mes responsabilités ont été:
  \- L'encadrement de stagiaires
  
 Les projets notables sur lesquelles j'ai travaillé: 
- - La migration du processus de renouvellement cartes à échéance
- - La consolidation de deux référentiels de bénéficiaire SEPA
- - La mise en production du SEPA instantané
- - La mise à niveau de notre moteur SEPA lors de la sortie de la norme SEPA21.
+ 
+ \- La migration du processus de renouvellement cartes à échéance
+ 
+ \- La consolidation de deux référentiels de bénéficiaire SEPA
+ 
+ \- La mise en production du SEPA instantané
+ 
+ \- La mise à niveau de notre moteur SEPA lors de la sortie de la norme SEPA21.
 
 Cette expérience m'a permis d'apprendre énormément: 
- - En scala (Cats, Http4s, Fs2, Doobie) et sur la programmation fonctionnelle
- - Sur la création et déploiement d'application micro service (Docker, CI-CD, Kubernetes ...)
- - Sur le domaine métier de la banque
- - Sur la conception d'un système robuste et rapide
+ 
+ \- En scala (Cats, Http4s, Fs2, Doobie) et sur la programmation fonctionnelle
+ 
+ \- Sur la création et déploiement d'application micro service (Docker, CI-CD, Kubernetes ...)
+ 
+ \- Sur le domaine métier de la banque
+ 
+ \- Sur la conception d'un système robuste et rapide
 
 
 
