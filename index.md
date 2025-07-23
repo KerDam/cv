@@ -12,8 +12,6 @@ Développeur, ingénieur informatique
 Développeur au sein de l'équipe buraliste de Nickel. Dans le cadre du décommissionnent des bornes Nickel et leur remplacement par des Ipads, une refonte de l'application permettant la souscription client est nécessaire. Ma mission principale a été la création d'une application Swift pour Ipad et d'un front en React. Ce projet a introduit beaucoup de nouveauté au sein du SI, notamment le déploiement d'une application IOS interne supervisée et la gestion de flotte dans JAMF, en tant qu'unique développeur sur ce projet j'ai eu la responsabilité de présenter le projet et nos besoins inédits aux équipes concernées pour qu'on adapte nos processus en conséquence. 
 En parallèle de ce projet, j'ai continuer les développements en Scala sur notre service permettant de recevoir les connections des TPE Nickel présent dans nos points de vente.
 
-
-
 `Depuis 2020`
 Développeur Scala au sein de l'équipe Cobalt chargée du "CORE banking" de Nickel. Le périmètre de l'équipe comprend plus d'une centaine d'applicatifs (batch / API REST & GRPC) conteneurisés déployés sur Kubernetes dans le but d'offrir à plus de 3 000 000 de clients Nickel les services bancaires basiques (tenue du solde client, virements SEPA, gestion de la carte bancaire, opération MasterCard ...). Les contraintes des temps réel (impacts compte instantanés) et de disponibilité impose à l'équipe une rigueur dans le développement de nos services: revue de code, tests (unitaires, intégrations, bout en bout (robot framework), de charge (gatling), recette, pact testing) ainsi qu'une réponse rapide lors de l'apparition d'un problème en production. 
 
@@ -52,10 +50,8 @@ Cette expérience m'a permis d'apprendre énormément:
  \- Sur la conception d'un système robuste et rapide
 
 
-
 `2020 - Stage`
 Réalisation d'un POC sur l'utilisation de Kafka Streams pour l'enrichissement d'un fichier, et la simplification d'un processus legacy. Monté en compétence sur la programmation fonctionnelle, Scala, l'architecture micros services et le déploiement continue d'applications.
-
 
 ### ASI
 `2019 - Stage `
@@ -75,7 +71,6 @@ La formation porte sur l'administration de système Unix, Windows et Cisco ainsi
 ### IUT Nantes
 `2014-2016`
 2 ans de formation sur les bases de l'informatique, programmation en C, Java, Python, bases sur le fonctionnement des réseaux et les bases de données. 
-
 
 ## Langues
 ### Anglais 
