@@ -18,12 +18,18 @@ En parallèle de ce projet, j'ai continuer les développements en Scala sur notr
 Développeur Scala au sein de l'équipe Cobalt chargée du "CORE banking" de Nickel. Le périmètre de l'équipe comprend plus d'une centaine d'applicatifs (batch / API REST & GRPC) conteneurisés déployés sur Kubernetes dans le but d'offrir à plus de 3 000 000 de clients Nickel les services bancaires basiques (tenue du solde client, virements SEPA, gestion de la carte bancaire, opération MasterCard ...). Les contraintes des temps réel (impacts compte instantanés) et de disponibilité impose à l'équipe une rigueur dans le développement de nos services: revue de code, tests (unitaires, intégrations, bout en bout (robot framework), de charge (gatling), recette, pact testing) ainsi qu'une réponse rapide lors de l'apparition d'un problème en production. 
 
 Au sein de l'équipe mes responsabilités ont été: 
+
  \- La rédaction de code / test
- - Le déploiement d'application
- - L'identification et correction de bugs en production et recette
- - L'onboarding de nouveaux collègues
- - La rédaction de conception techniques / tickets JIRA
- - L'encadrement de stagiaires
+ 
+ \- Le déploiement d'application
+ 
+ \- L'identification et correction de bugs en production et recette
+ 
+ \- L'onboarding de nouveaux collègues
+ 
+ \- La rédaction de conception techniques / tickets JIRA
+ 
+ \- L'encadrement de stagiaires
  
 Les projets notables sur lesquelles j'ai travaillé: 
  - La migration du processus de renouvellement cartes à échéance
