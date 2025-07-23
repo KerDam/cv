@@ -16,7 +16,7 @@ En parallèle de ce projet, j'ai continuer les développements en Scala sur notr
 Développeur Scala au sein de l'équipe Cobalt chargée du "CORE banking" de Nickel. Le périmètre de l'équipe comprend plus d'une centaine d'applicatifs (batch / API REST & GRPC) conteneurisés déployés sur Kubernetes dans le but d'offrir à plus de 3 000 000 de clients Nickel les services bancaires basiques (tenue du solde client, virements SEPA, gestion de la carte bancaire, opération MasterCard ...). Les contraintes des temps réel (impacts compte instantanés) et de disponibilité impose à l'équipe une rigueur dans le développement de nos services: revue de code, tests (unitaires, intégrations, bout en bout (robot framework), de charge (gatling), recette, pact testing) ainsi qu'une réponse rapide lors de l'apparition d'un problème en production. 
 
 Au sein de l'équipe mes responsabilités ont été: 
- - La rédaction de code / test
+ \- La rédaction de code / test
  - Le déploiement d'application
  - L'identification et correction de bugs en production et recette
  - L'onboarding de nouveaux collègues
@@ -49,7 +49,7 @@ Création d'une application de photomaton en React Native pour le DevFest.
 `2017-2020`
 3 ans de cycle ingénieur couvrant la plupart des domaines de l'informatique. Développement d'application (C, JAVA, Python), BDD, réseaux, introduction aux stratégies d'optimisation. Et mise en pratique lors de projets recherche.  
 
-### University of west of Scotland (UWS)
+### UWS
 `2016-2017`
 Année Erasmus en Ecosse dans la région de Glasgow à UWS dans le cadre d'un DUETI en tant qu'étudiant en Computer Networking. 
 La formation porte sur l'administration de système Unix, Windows et Cisco ainsi que sur le design et le fonctionnnement des réseaux. 
