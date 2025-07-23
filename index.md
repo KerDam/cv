@@ -29,7 +29,7 @@ Au sein de l'équipe mes responsabilités ont été:
  
  \- L'encadrement de stagiaires
  
-Les projets notables sur lesquelles j'ai travaillé: 
+Les projets notables sur lesquels j'ai travaillé: 
  
  \- La migration du processus de renouvellement cartes à échéance
  
@@ -55,7 +55,6 @@ Réalisation d'un POC sur l'utilisation de Kafka Streams pour l'enrichissement d
 
 ### ASI
 `2019 - Stage `
-
 Création d'une application de photomaton en React Native pour le DevFest.
 
 ## Education
